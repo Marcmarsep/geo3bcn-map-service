@@ -15,7 +15,7 @@ $ pip install -r requirements.txt
 
 To configure the server, fill in the fields of your choice in the `config.ini` file. Remember that one of the requests from EPOS was to serve under the HTTPS port (443).
 
-You can also configure the logging options in the `logging.ini` file.
+You can also configure the logging options in the `logging.conf` file.
 
 ## Execution
 
